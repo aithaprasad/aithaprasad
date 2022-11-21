@@ -1,19 +1,23 @@
-- 👋 Hi, I’m @aithaprasad
-- 👀 I’m interested in Full-Stack Development and Natural Language Processing tasks 
-- 🌱 I’m currently pursuing my Masters after a successful stint at Hewlett-Packard Enterprise as a Full Stack Engineer
+- 👋 Hi, I’m @aithaprasad.
+- 👀 I’m interested in Full-Stack Development and Natural Language Processing tasks. 
+- 🌱 I’m currently pursuing my Masters after a successful stint at Hewlett-Packard Enterprise as a Full Stack Engineer.
+- 🌱 I'm currently leading two open source projects in my campus's open source software center.
 - 💞️ I’m looking to collaborate on Open source projects.
-- 💞️ I'm open to SDE-1 or Entry level Grad positions which are starting after Spring 2023.
+- 💞️ I'm open to SDE-1 or Entry level Grad and Software Engineer-I positions  which are starting after Spring 2023.
 
 My Experience at Hewlett-Packard Enterprise includes:
 
 --> Built micro-services, database schema and related web-pages to manage internal customers accounts to request assets from IT team.
---> Reduced the raised ticket summary download time from 850ms to 325ms • SpringBoot,ReactJS,MongoDB,Java,JavaScript
+--> Reduced the raised ticket summary download time from 850ms to 325ms 
+• SpringBoot, ReactJS, MongoDB, Java, JavaScript, Python
 
 and My Internship includes:
-BuiltinteractivedashboardsforDigitalTransformationOfDataCenterwhere IT Admin and Owners can get insights on assets based on their role and filters.
-• (MySQL,MongoDB)–>ElasticSearch–>Kibana(Visualization)
-• DataAnalytics,Visualization,ElasticSearch,MySQL,MongoDB,Kibana
+Built interactive dashboards for Digital Transformation Of Data Center where IT Admin and Owners can get insights on assets based on their role and filters.
+• (MySQL, MongoDB) –> ElasticSearch –> Kibana(Visualization)
+• Data Analytics, Visualization, ElasticSearch, MySQL, MongoDB, Kibana, Python
 
+Leetcode Profile: https://www.leetcode.com/Uday_prasad  
+LinkedIn Profile: https://www.linkedin.com/in/aitha-uday-prasad
 
 <!---
 aithaprasad/aithaprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
