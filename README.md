@@ -7,14 +7,14 @@
 
 My Experience at Hewlett-Packard Enterprise includes:
 
---> Built micro-services, database schema and related web-pages to manage internal customers accounts to request assets from IT team.
---> Reduced the raised ticket summary download time from 850ms to 325ms 
-• SpringBoot, ReactJS, MongoDB, Java, JavaScript, Python
+• Built micro-services, database schema and related web-pages to manage internal customers accounts to request assets from IT team.  
+• Reduced the raised ticket summary download time from 850ms to 325ms.   
+• SpringBoot, ReactJS, MongoDB, Java, JavaScript, Python.  
 
-and My Internship includes:
-Built interactive dashboards for Digital Transformation Of Data Center where IT Admin and Owners can get insights on assets based on their role and filters.
-• (MySQL, MongoDB) –> ElasticSearch –> Kibana(Visualization)
-• Data Analytics, Visualization, ElasticSearch, MySQL, MongoDB, Kibana, Python
+My Internship includes:
+Built interactive dashboards for Digital Transformation Of Data Center where IT Admin and Owners can get insights on assets based on their role and filters.    
+• (MySQL, MongoDB) –> ElasticSearch –> Kibana(Visualization).     
+• Data Analytics, Visualization, ElasticSearch, MySQL, MongoDB, Kibana, Python.
 
 Leetcode Profile: https://www.leetcode.com/Uday_prasad  
 LinkedIn Profile: https://www.linkedin.com/in/aitha-uday-prasad
