@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @aithaprasad.
 - 👀 I’m interested in Full-Stack Development and Natural Language Processing tasks. 
-- 🌱 I’m currently pursuing my Masters after a successful stint at Hewlett-Packard Enterprise as a Full Stack Engineer.
+- 🌱 I’m currently working with Walmart as a Software Engineer III
+- 🌱 Graduated from Saint Louis University after a successful stint at Hewlett-Packard Enterprise as a Full Stack Engineer.
 - 🌱 I'm currently leading two open source projects in my campus's open source software center.
 - 💞️ I’m looking to collaborate on Open source projects.
-- 💞️ I'm open to SDE-1 or Entry level Grad and Software Engineer-I positions  which are starting after Spring 2023.
+- 💞️ I'm open to SDE-2 or Data Scientist positions.
 
 My Experience at Hewlett-Packard Enterprise includes:
 
